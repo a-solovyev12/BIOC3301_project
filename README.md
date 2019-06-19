@@ -1,6 +1,6 @@
 # BIOC3301 project
 This repository contains scripts (PBS and Python) and part of the data analysis for the UCL BIOC3301 project.
-Read the project report [here](https://github.com/a-solovyev12/bioc3301_project/blob/master/report.pdf)
+Read the project report [here](https://github.com/a-solovyev12/bioc3301_project/blob/master/report.pdf).
 
 ## pbs_scripts
 Scripts that were submitted to the Cirrus HPC via the portable batch system. Contains the basic QIIME pipeline (OTU assigning, 
