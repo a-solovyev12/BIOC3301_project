@@ -1,5 +1,5 @@
 # BIOC3301 project
-This repository contains scripts (PBS and Python) and part of the data analysis for the UCL BIOC3301 project.
+This repository contains scripts (PBS and Python) and part of the data analysis for the UCL BIOC3301 project.\n
 Read the project report [here](https://github.com/a-solovyev12/bioc3301_project/blob/master/report.pdf).
 
 ## pbs_scripts
